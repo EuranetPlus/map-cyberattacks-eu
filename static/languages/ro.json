@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Care este nivelul atacurilor cibernetice din UE?",
+  "subtitle": "Începând cu 2024, în medie 7,32% dintre întreprinderile din UE au fost supuse unor atacuri cibernetice.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Categoriile de atacuri cibernetice asupra întreprinderilor sunt definite după cum urmează: Divulgarea de date confidențiale (datorită intruziunilor, phishing-ului, pharming-ului sau acțiunilor angajaților – intenționate sau neintenționate) - Indisponibilitatea serviciilor TIC (datorită atacurilor externe, defecțiunilor hardware sau software) - Distrugerea sau coruperea datelor (datorită programelor malware, accesului neautorizat, defecțiunilor hardware sau software).",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "de întreprinderi",
   "tooltipExtraInfoLabel": "Click aici"
 }
