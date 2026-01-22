@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur hög är nivån på cyberattackerna i EU?",
+  "subtitle": "År 2024 upplevde i genomsnitt 7,32 % av företagen i EU cyberattacker.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Kategorier för cyberattacker mot företag definieras som följande: Utlämnande av konfidentiella uppgifter (på grund av intrång, nätfiske, pharming eller åtgärder från anställda – avsiktliga eller oavsiktliga) - Otillgänglighet av IKT-tjänster (på grund av externa attacker, hårdvaru- eller programvarufel) - Förstöring eller korruption av data (på grund av skadlig kod, obehörig åtkomst, hårdvaru- eller programvarufel).",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2025)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av företag",
   "tooltipExtraInfoLabel": "Klicka här"
 }
