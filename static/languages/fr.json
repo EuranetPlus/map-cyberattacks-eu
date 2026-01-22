@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quel est le niveau des cyberattaques dans l'UE ?",
+  "subtitle": "En 2024, 7,32 % des entreprises de l'UE en moyenne avaient subi des cyberattaques.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les catégories de cyberattaques contre les entreprises sont définies comme suit : Divulgation de données confidentielles (en raison d’intrusions, d’hameçonnage, de pharming ou d’actions d’employés – intentionnelles ou non) ; Indisponibilité des services TIC (en raison d’attaques externes, de défaillances matérielles ou logicielles) ; Destruction ou corruption de données (en raison de logiciels malveillants, d’accès non autorisé, de défaillances matérielles ou logicielles).",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "des entreprises",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
