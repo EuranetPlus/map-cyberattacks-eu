@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe groot is het aantal cyberaanvallen in de EU?",
+  "subtitle": "In 2024 ondervond gemiddeld 7,32% van de bedrijven in de EU cyberaanvallen.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De categorieën voor cyberaanvallen op bedrijven worden als volgt gedefinieerd: Openbaarmaking van vertrouwelijke gegevens (door inbraak, phishing, pharming of handelingen van werknemers – opzettelijk of onopzettelijk) - Onbeschikbaarheid van ICT-diensten (door externe aanvallen, hardware- of softwarefouten) - Vernietiging of beschadiging van gegevens (door malware, ongeautoriseerde toegang, hardware- of softwarefouten).",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van ondernemingen",
   "tooltipExtraInfoLabel": "Klik hier"
 }
