@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cén leibhéal cibearionsaithe atá san AE?",
+  "subtitle": "Ó 2024 i leith, bhí cibearionsaithe ar an meán ar 7.32% de ghnólachtaí san AE.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Sainmhínítear catagóirí le haghaidh cibearionsaithe ar fhiontair mar seo a leanas: Nochtadh sonraí rúnda (mar gheall ar ionraidh, fioscaireachta, cógaisíocht, nó gníomhartha fostaithe – d'aon ghnó nó gan aon ghnó) - Gan seirbhísí TFC a bheith ar fáil (mar gheall ar ionsaithe seachtracha, teipeanna crua-earraí nó bogearraí) - Scriosadh nó truailliú sonraí (mar gheall ar bhogearraí mailíseacha, rochtain neamhúdaraithe, teipeanna crua-earraí nó bogearraí).",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2025)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "de ghnóthais",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
