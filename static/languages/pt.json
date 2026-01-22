@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual é o nível de ciberataques na UE?",
+  "subtitle": "Em 2024, em média, 7,32% das empresas na UE sofreram ataques cibernéticos.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "As categorias de ataques cibernéticos a empresas são definidas da seguinte forma: Divulgação de dados confidenciais (devido a intrusão, phishing, pharming ou ações de funcionários – intencionais ou não intencionais) - Indisponibilidade de serviços de TIC (devido a ataques externos, falhas de hardware ou software) - Destruição ou corrupção de dados (devido a malware, acesso não autorizado, falhas de hardware ou software).",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "de empresas",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
