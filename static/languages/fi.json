@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Mikä on kyberhyökkäysten taso EU:ssa?",
+  "subtitle": "Vuonna 2024 keskimäärin 7,32 % EU:n yrityksistä koki kyberhyökkäyksiä.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Yrityksiin kohdistuvien kyberhyökkäysten luokat määritellään seuraavasti: Luottamuksellisten tietojen paljastuminen (tunkeutumisen, tietojenkalastelun, pharming-yrityksen tai työntekijöiden tahallisen tai tahattoman toiminnan vuoksi) - ICT-palveluiden katkos (ulkoisten hyökkäysten, laitteisto- tai ohjelmistovikojen vuoksi) - Tietojen tuhoutuminen tai vioittuminen (haittaohjelmien, luvattoman käytön, laitteisto- tai ohjelmistovikojen vuoksi).",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "yrityksistä",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
