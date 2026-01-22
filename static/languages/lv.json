@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kāds ir kiberuzbrukumu līmenis ES?",
+  "subtitle": "Sākot ar 2024. gadu, vidēji 7,32 % uzņēmumu ES bija saskārušies ar kiberuzbrukumiem.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Kiberuzbrukumu uzņēmumiem kategorijas tiek definētas šādi: konfidenciālu datu izpaušana (ielaušanās, pikšķerēšanas, viltošanas vai darbinieku darbību dēļ – tīšas vai netīšas); IKT pakalpojumu nepieejamība (ārēju uzbrukumu, aparatūras vai programmatūras kļūmju dēļ); datu iznīcināšana vai bojāšana (ļaunprogrammatūras, nesankcionētas piekļuves, aparatūras vai programmatūras kļūmju dēļ).",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2025)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "uzņēmumu",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
